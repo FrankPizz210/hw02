@@ -1,0 +1,53 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Frank Pizzella
+
+
+2. What hostname did you deploy to?
+hw02.frankpizz10.net
+
+
+3. What's the link to your repository on github with your code?
+https://github.com/FrankPizz210/hw02
+
+4. How many HTML / CSS tutorial exercises did you do?
+I did about 50 exercises and completing exercise 3 from each 
+chapter.
+
+5. How comfortable do you feel with HTML and CSS now?
+I feel much more comfortable when I started and understand 
+some core conecpts.
+
+6. How many JS tutorial exercises did you do?
+I did about 20 exercises completing exercise 3 from 
+each chapter.
+
+7. How comfortable do you feel with JS now?
+I now understna how to use javascript to interact with 
+html which is a skill a didn't have before this assignment.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+At first my pages did not pass because of missing titles 
+but after seeing these error and making the appropriate 
+corrections, all my html pages pass.
+
+9. Which parts of this assignment did you have trouble with, if any?
+The hardest part of this assignment for me was having my calculator 
+calculate at the appropriate time ie when you click the equal button 
+or a second operation button.
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
