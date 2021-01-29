@@ -1,0 +1,20 @@
+#L {
+  color: red;
+}
+
+#I {
+  color: green;
+}
+
+#O {
+  color: blue;
+}
+
+#N {
+  color: purple;
+}
+
+td {
+  border: 3px solid;
+  text-align: center;
+}
